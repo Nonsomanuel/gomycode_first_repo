@@ -17,5 +17,3 @@ print(f'variance{variance:,.2f}')
 
 Standard_deviation = df.std(ddof=0)
 print(f'standard deviation{Standard_deviation:,.2f}')
-
-

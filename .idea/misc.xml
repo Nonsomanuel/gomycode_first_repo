@@ -3,5 +3,13 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="~\desktop\gomycode_first_repo\.venv" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="~\Desktop\gomycode_first_repo\.venv" project-jdk-type="Python SDK" />
+>>>>>>> e22464eb1c2665e8dbfb31bb4ec54c2798978ede
+>>>>>>> 3d7b708656c59fb6db793dc1adb04f1118a90b54
 </project>
